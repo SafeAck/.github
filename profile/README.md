@@ -1,4 +1,4 @@
-# SafeAck - Platform to Safely Explore and Hack APIs Safely
+# SafeAck - Platform to Safely Explore and Hack APIs
 
 <!-- ## Overview -->
 
