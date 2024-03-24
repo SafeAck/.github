@@ -2,7 +2,7 @@
 
 <!-- ## Overview -->
 
-Welcome to SafeAck, a platform designed to safely explore and pentest APIs. SafeAck is not a tool for malicious activities or unauthorized access; instead, it provides a controlled environment for ethical hackers, developers, and security professionals to better understand and assess the security of APIs.
+Welcome to SafeAck, a platform designed to safely explore and pentest APIs. It provides a controlled environment for ethical hackers, developers, and security professionals to better understand and assess the security of APIs.
 
 <!--
 ## Features
@@ -24,4 +24,4 @@ Access a comprehensive library of learning resources, tutorials, and documentati
 Join a vibrant community of ethical hackers, developers, and security enthusiasts. Share your knowledge, experiences, and insights with like-minded individuals to foster a collaborative and supportive environment.
 
 -->
-Happy hacking responsibly!
+Happy hacking!
